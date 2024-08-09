@@ -1,1 +1,2 @@
-# agrinho_2024
+# Projeto Agrinho 2024
+Gabriel Almeida de Jesus
